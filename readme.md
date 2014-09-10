@@ -17,3 +17,17 @@ second.html :
 
 penggunaan 
 <section></section>      -> biasanya diawali h1
+
+
+third.html   :
+
+penggunaan <details></details>  & <summary></summary>  ->   effect toggle 
+
+
+fourth.html  :
+article
+
+
+fifth.html   :
+
+penggunaan <figures></figures>  untuk memberi keterangan pada gambar
