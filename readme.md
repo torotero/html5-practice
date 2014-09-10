@@ -10,7 +10,7 @@ penambahan beberapa syntax untuk pendefinisian
 	<footer></footer>
 	<nav></nav>
 	<div role="main">
-
+	<aside></aside>
 
 
 second.html :
